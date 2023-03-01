@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3Ch4Ex3Part1_ChalEx_2", "m3Ch4Ex3Part1_ChalEx_2\m3Ch4Ex3Part1_ChalEx_2.pyproj", "{5BF0C7F6-ABF1-4CBC-9078-2776F47E796D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BF0C7F6-ABF1-4CBC-9078-2776F47E796D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BF0C7F6-ABF1-4CBC-9078-2776F47E796D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8861D1CF-4EDA-4DB4-AB87-9C89E860BD26}
+	EndGlobalSection
+EndGlobal
