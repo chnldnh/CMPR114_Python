@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7Ch7ListChalEx4", "m3_7Ch7ListChalEx4\m3_7Ch7ListChalEx4.pyproj", "{9E85E8FE-0C83-4EEE-ABCA-14DD9CD9FB29}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7Ch7ListChalEx4a", "..\m3_7Ch7ListChalEx4a\m3_7Ch7ListChalEx4a.pyproj", "{4DA7823A-8628-4E4F-84B6-F9A432E4DFB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E85E8FE-0C83-4EEE-ABCA-14DD9CD9FB29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E85E8FE-0C83-4EEE-ABCA-14DD9CD9FB29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA7823A-8628-4E4F-84B6-F9A432E4DFB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA7823A-8628-4E4F-84B6-F9A432E4DFB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5A82032-51F5-4C4E-99C2-D41578539837}
+	EndGlobalSection
+EndGlobal
