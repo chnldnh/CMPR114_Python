@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7HW7ListProjEx1", "m3_7HW7ListProjEx1\m3_7HW7ListProjEx1.pyproj", "{0266AD8E-3DF0-4C59-9F9F-86CA9E386515}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7HW7ListProjEx2", "..\m3_7HW7ListProjEx2\m3_7HW7ListProjEx2.pyproj", "{EFE685ED-A94C-425C-8691-EFB19365644D}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7HWCh4Proj3", "..\m3_7HWCh4Proj3\m3_7HWCh4Proj3.pyproj", "{C8208878-553C-4925-99DE-276D1CEB6C38}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7HWCh4Proj2", "..\m3_7HWCh4Proj2\m3_7HWCh4Proj2.pyproj", "{0A276E7A-1E96-4AE3-B550-FD319727B7BC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m3_7HWCh4Proj1", "..\m3_7HWCh4Proj1\m3_7HWCh4Proj1.pyproj", "{D8B1795D-3ED3-46D4-84CD-0350EFAEFA0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0266AD8E-3DF0-4C59-9F9F-86CA9E386515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0266AD8E-3DF0-4C59-9F9F-86CA9E386515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE685ED-A94C-425C-8691-EFB19365644D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE685ED-A94C-425C-8691-EFB19365644D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8208878-553C-4925-99DE-276D1CEB6C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8208878-553C-4925-99DE-276D1CEB6C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A276E7A-1E96-4AE3-B550-FD319727B7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A276E7A-1E96-4AE3-B550-FD319727B7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D8B1795D-3ED3-46D4-84CD-0350EFAEFA0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D8B1795D-3ED3-46D4-84CD-0350EFAEFA0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {51407F45-3A6C-4AF8-B843-EA15E2EAC5B7}
+	EndGlobalSection
+EndGlobal
