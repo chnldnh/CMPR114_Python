@@ -9,6 +9,6 @@ print('-----------------------------------')
 
 for t in range(1, time +1):
     distance = speed * t 
-    print('hours ' +'\t', format(distance, '.0f'))
+    print(f'hours {t} ' + '\t', format(distance, '.0f'))
 
 
