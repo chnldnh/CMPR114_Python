@@ -19,4 +19,6 @@ elif sales >= 70000.00 and sales < 90000.00:
 elif sales >= 90000.00 and sales < 100000.00:
     SAL90 = (SAL90 * COMM90100) + SAL90
     print(f'salary {SAL90:,.2f}' )    
+else:
+    print('reenter sales')
     

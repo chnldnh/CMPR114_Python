@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m4HW4_7Tupple_1", "m4HW4_7Tupple_1\m4HW4_7Tupple_1.pyproj", "{5779106C-3656-4AA2-BD2A-B3BDA80342D8}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m4HW4_7Tupple_2", "..\m4HW4_7Tupple_2\m4HW4_7Tupple_2.pyproj", "{F4384520-AA4B-4517-8242-0489FF39002B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m4HW4_7Tupple_3", "..\m4HW4_7Tupple_3\m4HW4_7Tupple_3.pyproj", "{23F1B849-A6DF-408A-9B1F-AD3C65683BCF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m4HW4_7Tupple_4", "..\m4HW4_7Tupple_4\m4HW4_7Tupple_4.pyproj", "{6C31D40E-E91C-4E83-8CD1-02470F4CA752}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5779106C-3656-4AA2-BD2A-B3BDA80342D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5779106C-3656-4AA2-BD2A-B3BDA80342D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4384520-AA4B-4517-8242-0489FF39002B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4384520-AA4B-4517-8242-0489FF39002B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23F1B849-A6DF-408A-9B1F-AD3C65683BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23F1B849-A6DF-408A-9B1F-AD3C65683BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C31D40E-E91C-4E83-8CD1-02470F4CA752}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C31D40E-E91C-4E83-8CD1-02470F4CA752}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {78F056B9-6E52-4E38-8B8B-16D67C288B23}
+	EndGlobalSection
+EndGlobal
