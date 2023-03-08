@@ -4,30 +4,30 @@
 score = 4
 avgScore = 0
 grade = 'A'
+tScore = 0
 
+while avgScore <= 100: 
+    for sc in range(score):
+            sc = int(input('Enter score: ')) 
+            tScore = sc + tScore # cal total score entered
+            avgScore = tScore / score    # get average score
+    print('average ' + str(avgScore))
 
+    if avgScore > 100:
+        print('Reenter the grade score ')
+    elif avgScore >= 90 and avgScore < 100:
+        grade = 'A'
+    elif avgScore >= 80 and avgScore < 90:
+        grade = 'B'
+    elif avgScore >= 70 and avgScore < 80:
+        grade = 'C'
+    elif avgScore >= 60 and avgScore < 70:
+        grade = 'D'
+    else:
+        grade = 'F'    
+  
+    print('grade ' + grade)
 
-for sc in range(score):
-    sc = int(input('Enter score: '))
-    avgScore += sc/ score
-    print(avgScore)
-
-if sc >90 and sc < 100:
-    grade = 'A'
-elif sc >80 and sc < 89:
-    grade = 'B'
-elif sc >70 and sc < 79:
-    grade = 'C'
-elif sc >60 and sc < 69:
-    grade = 'D'
-elif sc < 60:
-    grade = 'F'
-
-print('grade ' + grade)
-
-while avgScore >= 100:
-    sc = int(input('Reenter the grade score '))
-    
 
 
   

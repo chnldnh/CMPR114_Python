@@ -8,7 +8,6 @@ SAL70 = 70000.00
 SAL80 = 80000.00
 SAL90 = 90000.00
 
-
 sales = float(input('Enter the sales '))
 
 if sales >= 50000.00 and sales < 70000.00:

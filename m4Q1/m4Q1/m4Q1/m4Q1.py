@@ -4,6 +4,6 @@
 ADDSAL = .10
 
 salary = float(input('Enter the gross salary '))
-salary = (salary * ADDSAL) + salary
+salary += (salary * ADDSAL)
 
 print(f' Total salary ${(salary):,.2f}')
