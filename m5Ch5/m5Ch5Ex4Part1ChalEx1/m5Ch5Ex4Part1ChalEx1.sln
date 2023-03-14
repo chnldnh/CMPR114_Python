@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.33403.129
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m5Ch5Ex4Part1ChalEx1", "m5Ch5Ex4Part1ChalEx1\m5Ch5Ex4Part1ChalEx1.pyproj", "{1F77334F-A5E7-401E-88C7-FE21C2F43C40}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m5Ch5Ex4Part1ChalEx2", "..\m5Ch5Ex4Part1ChalEx2\m5Ch5Ex4Part1ChalEx2.pyproj", "{C4B0EF14-8342-4353-BF7F-8B5F19AABDEF}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m5Ch5Ex4Part1ChalEx3", "..\m5Ch5Ex4Part1ChalEx3\m5Ch5Ex4Part1ChalEx3.pyproj", "{F92EFBB1-6FA6-4DC4-AF11-63023862D78B}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m5Ch5Ex4Part1ChalEx4", "..\m5Ch5Ex4Part1ChalEx4\m5Ch5Ex4Part1ChalEx4.pyproj", "{407F67BB-4744-4BEE-BB21-3664D997B5A2}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "m5Ch5Ex4Part1ChalEx5", "..\m5Ch5Ex4Part1ChalEx5\m5Ch5Ex4Part1ChalEx5\m5Ch5Ex4Part1ChalEx5.pyproj", "{BC38B04E-8B79-4824-9B21-0C2FFDE35260}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F77334F-A5E7-401E-88C7-FE21C2F43C40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F77334F-A5E7-401E-88C7-FE21C2F43C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B0EF14-8342-4353-BF7F-8B5F19AABDEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B0EF14-8342-4353-BF7F-8B5F19AABDEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F92EFBB1-6FA6-4DC4-AF11-63023862D78B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F92EFBB1-6FA6-4DC4-AF11-63023862D78B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{407F67BB-4744-4BEE-BB21-3664D997B5A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{407F67BB-4744-4BEE-BB21-3664D997B5A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC38B04E-8B79-4824-9B21-0C2FFDE35260}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC38B04E-8B79-4824-9B21-0C2FFDE35260}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F9BDD84-ACD8-459A-8499-0C77C4802F9C}
+	EndGlobalSection
+EndGlobal
