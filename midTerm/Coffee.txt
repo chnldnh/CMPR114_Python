@@ -1,0 +1,2 @@
+Coffee	Prod Number	Price
+Folgers	99-8888		$9.88

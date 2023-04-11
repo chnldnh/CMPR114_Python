@@ -1,0 +1,5 @@
+My expenses for the month.  Rent: $100.00
+My gas for the month.  gas: $100.00
+My food for the month.  food: $1200.00
+My clothing for the month.  clothing: $300.00
+My payment for the month.  payment: $400.00
